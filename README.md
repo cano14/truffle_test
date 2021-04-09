@@ -1,0 +1,1 @@
+Repository to test about truffle and smart contracts
