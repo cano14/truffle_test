@@ -1,2 +1,2 @@
 # truffle_test
-Repository to test truffle 
+Este repositorio va destinado a testear la tecnologia blockchain y en como funcionan los smart contracts
